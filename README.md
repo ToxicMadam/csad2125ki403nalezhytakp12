@@ -1,3 +1,4 @@
+
 # 1.1. Details about repo
 This repository is created to store lab works for CSAD course. It will include completed labs and all the steps of development from start to finish.
 # 1.2. Task details
